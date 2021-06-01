@@ -1,0 +1,27 @@
+	String names[4], family
+	Int StudID
+	String BookType
+	String regular
+	String school
+	For (i=0 , i>4, i++)
+	Read family
+End for 
+	If BookType = StudID then 
+	System.out.println (“enter student ID number and attach a scanned copy”)
+	Else if bookType = family
+	System.out.println (“insert family members names”)
+	Else system.out.println(“insert civil ID and name details”)
+	End if
+	Switch (BookType)
+	 Case (family) 
+System.out.println(“you are eligible for 20% discount”)
+	Case (student)
+System.out.println(“ you are eligible for 25% discount”)
+	Case (regular)
+System.out.println(“unfortunately you are not eligible for discount”)
+	End switch
+	If BookType = school
+System.out.println(“ you will get 35% discount and free meals for you’re your students”)
+	Else
+System.out.println(“ no discount or meal”)
+	End if
