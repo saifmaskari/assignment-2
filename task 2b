@@ -1,8 +1,8 @@
 	String names[4], family
 	Int StudID
-	String BookType
-	String regular
-	String school
+	String GameType
+	String Irregular
+	String College
 	For (i=0 , i>4, i++)
 	Read family
 End for 
