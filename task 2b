@@ -25,3 +25,4 @@ System.out.println(“ you will get 35% discount and free meals for you’re you
 	Else
 System.out.println(“ no discount or meal”)
 	End if
+System.out.println(“ This is Hamed's Edit”)
